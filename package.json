@@ -1,0 +1,28 @@
+{
+  "name": "img-to-pdf-in-electron",
+  "version": "1.0.0",
+  "description": "window desktop app that convert images into pdf developed in electron.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anime1nation/img-to-pdf-in-electron.js.git"
+  },
+  "keywords": [],
+  "author": "Manish kumar sinha <sinhamanish107@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anime1nation/img-to-pdf-in-electron.js/issues"
+  },
+  "homepage": "https://github.com/anime1nation/img-to-pdf-in-electron.js#readme",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.2",
+    "pdfkit": "^0.14.0"
+  }
+}
